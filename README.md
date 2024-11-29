@@ -50,6 +50,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ---
-This project is part of the [Swarms](https://swarms.com/) initiative 🚀
+This project is part of the [Swarms](https://swarms.world/) initiative 🚀
 
 ![Swarms Logo](swarms_logo.png)
